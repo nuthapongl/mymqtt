@@ -1,0 +1,13 @@
+{
+    "name": "demo_mqtt",
+    "version": "1.0.0",
+    "description": "test communication between pill_reminder and homehub",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "author": "Tangmo",
+    "license": "ISC"
+
+}
